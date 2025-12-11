@@ -1,0 +1,7 @@
+{
+  "name": "Luxurious Christmas Tree 3D",
+  "description": "A high-fidelity 3D Christmas interaction featuring a golden-emerald tree, cinematic bloom, and MediaPipe hand gesture controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
